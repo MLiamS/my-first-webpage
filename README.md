@@ -20,8 +20,15 @@ _My second web page with fun links about cats and such_
 _This website was created by Liam Stabeno with the help of Chris Wainner, please contact liamstabeno@gmail.com if you have any questions._
 
 
+
+
+
+
+
+
+
 ### License
 
 *This webpage is licensed under the MIT license*
 
-Copyright (c) 2017 **_Liam Stabeno & Chris Wainner**
+Copyright (c) 2017 **Liam Stabeno & Chris Wainner**
